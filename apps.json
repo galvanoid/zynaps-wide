@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "uuid": "5a595749-4445-4000-8000-000000000001",
+      "name": "Zynaps Wide GPU",
+      "description": "SidecarTridge-accelerated Zynaps with a 320 x 192 playfield and centred HUD. Atari ST/STE with 1 MB; no Blitter required. Original ZYNAPS17.PRG and game resources are required on SD; no original game data is included. <a href=\"https://github.com/galvanoid/zynaps-wide#installation\">Installation instructions</a>",
+      "image": "",
+      "tags": [
+        "Game",
+        "GPU",
+        "Original files required"
+      ],
+      "devices": [
+        "ST",
+        "STE",
+        "MegaST",
+        "MegaSTE"
+      ],
+      "binary": "https://github.com/galvanoid/zynaps-wide/releases/download/v0.7.1/ZYNAPS-SC.uf2",
+      "md5": "aa73d407f1c83add6587888558994abf",
+      "version": "0.7.1-zynaps-wide",
+      "previous_versions": []
+    }
+  ]
+}

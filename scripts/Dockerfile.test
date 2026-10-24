@@ -1,0 +1,3 @@
+FROM logronoide/atarist-toolkit-docker-x86_64:zynaps
+USER root
+RUN apt-get update && apt-get install -y --no-install-recommends hatari && rm -rf /var/lib/apt/lists/*

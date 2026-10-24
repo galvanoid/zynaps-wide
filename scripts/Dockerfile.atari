@@ -1,0 +1,6 @@
+FROM logronoide/atarist-toolkit-docker-x86_64:latest
+USER root
+RUN apt-get update && apt-get install -y --no-install-recommends gcc-m68k-linux-gnu binutils-m68k-linux-gnu python3 && rm -rf /var/lib/apt/lists/*
+# The reconstruction uses freestanding ELF plus its own GEMDOS PRG packer.
+# Keep the standard stcmd entry point and the existing Atari toolkit intact.
+ENV ZY_CC=m68k-linux-gnu-gcc

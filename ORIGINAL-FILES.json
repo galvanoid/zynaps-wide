@@ -1,0 +1,317 @@
+{
+  "edition": "ZYNAPS17.PRG",
+  "original_program": {
+    "source": "AUTO/ZYNAPS17.PRG",
+    "destination": "ZYNAPS17.PRG",
+    "size": 42360,
+    "crc32": "238e7218"
+  },
+  "resources": [
+    {
+      "name": "ALIENA.DAT",
+      "size": 640,
+      "crc32": "8a7c7d71"
+    },
+    {
+      "name": "ALIENB.DAT",
+      "size": 640,
+      "crc32": "ae83f295"
+    },
+    {
+      "name": "ALIENC.DAT",
+      "size": 640,
+      "crc32": "85a27509"
+    },
+    {
+      "name": "ALIEND.DAT",
+      "size": 640,
+      "crc32": "b04c151e"
+    },
+    {
+      "name": "ALIENE.DAT",
+      "size": 640,
+      "crc32": "d87b0146"
+    },
+    {
+      "name": "ALIENF.DAT",
+      "size": 640,
+      "crc32": "bd428913"
+    },
+    {
+      "name": "ALIENG.DAT",
+      "size": 640,
+      "crc32": "f1503c58"
+    },
+    {
+      "name": "ALIENH.DAT",
+      "size": 160,
+      "crc32": "65bd0c92"
+    },
+    {
+      "name": "ALSEEK.DAT",
+      "size": 880,
+      "crc32": "d65055c7"
+    },
+    {
+      "name": "ALTEXPL.DAT",
+      "size": 1280,
+      "crc32": "80109d08"
+    },
+    {
+      "name": "BIGAST.DAT",
+      "size": 3840,
+      "crc32": "4a5cfe14"
+    },
+    {
+      "name": "BULLET.DAT",
+      "size": 80,
+      "crc32": "c9a32634"
+    },
+    {
+      "name": "CHARS2.DAT",
+      "size": 1600,
+      "crc32": "3eaf3015"
+    },
+    {
+      "name": "EXPLODE.DAT",
+      "size": 1920,
+      "crc32": "f6839689"
+    },
+    {
+      "name": "EXTCHARS.DAT",
+      "size": 1920,
+      "crc32": "768a858b"
+    },
+    {
+      "name": "GEMGRAF.DAT",
+      "size": 640,
+      "crc32": "fbd40c24"
+    },
+    {
+      "name": "GNDTARG1.DAT",
+      "size": 640,
+      "crc32": "e104f1e3"
+    },
+    {
+      "name": "GUNSIGHT.DAT",
+      "size": 90,
+      "crc32": "cc3ac295"
+    },
+    {
+      "name": "HEWLOGO.DAT",
+      "size": 1536,
+      "crc32": "3880b9fc"
+    },
+    {
+      "name": "LEV1.MAP",
+      "size": 8580,
+      "crc32": "32c539ce"
+    },
+    {
+      "name": "LEV2.MAP",
+      "size": 5942,
+      "crc32": "a6c68c07"
+    },
+    {
+      "name": "LEV3.MAP",
+      "size": 8564,
+      "crc32": "71eb6302"
+    },
+    {
+      "name": "LEV4.MAP",
+      "size": 8044,
+      "crc32": "d71f7368"
+    },
+    {
+      "name": "LEV5.MAP",
+      "size": 7556,
+      "crc32": "af524134"
+    },
+    {
+      "name": "LEV6.MAP",
+      "size": 8718,
+      "crc32": "3fba0749"
+    },
+    {
+      "name": "LEV7.MAP",
+      "size": 8146,
+      "crc32": "46c45853"
+    },
+    {
+      "name": "LEV8.MAP",
+      "size": 4118,
+      "crc32": "db1586b6"
+    },
+    {
+      "name": "LEV9.MAP",
+      "size": 5792,
+      "crc32": "3fac7432"
+    },
+    {
+      "name": "LEVX.MAP",
+      "size": 7580,
+      "crc32": "fee490ff"
+    },
+    {
+      "name": "LEVY.MAP",
+      "size": 7922,
+      "crc32": "843aa4b7"
+    },
+    {
+      "name": "LEVZ.MAP",
+      "size": 7124,
+      "crc32": "5773f351"
+    },
+    {
+      "name": "LIFEGRA.DAT",
+      "size": 64,
+      "crc32": "61796f72"
+    },
+    {
+      "name": "MISSILE1.DAT",
+      "size": 360,
+      "crc32": "da19e8c2"
+    },
+    {
+      "name": "MISSILE2.DAT",
+      "size": 360,
+      "crc32": "895b670b"
+    },
+    {
+      "name": "MISSILE3.DAT",
+      "size": 360,
+      "crc32": "a891db14"
+    },
+    {
+      "name": "MOTHER1.DAT",
+      "size": 1600,
+      "crc32": "87d64ace"
+    },
+    {
+      "name": "MOTHER2.DAT",
+      "size": 1600,
+      "crc32": "ab750886"
+    },
+    {
+      "name": "MOTHER3.DAT",
+      "size": 1600,
+      "crc32": "b485b6a2"
+    },
+    {
+      "name": "MOTHER4.DAT",
+      "size": 1600,
+      "crc32": "e57c32ee"
+    },
+    {
+      "name": "MOTHER5.DAT",
+      "size": 1600,
+      "crc32": "d07523c1"
+    },
+    {
+      "name": "MOTHER6.DAT",
+      "size": 320,
+      "crc32": "3592b6e8"
+    },
+    {
+      "name": "MOTHER7.DAT",
+      "size": 320,
+      "crc32": "7556b236"
+    },
+    {
+      "name": "MYSHIP.DAT",
+      "size": 2800,
+      "crc32": "4f1b570c"
+    },
+    {
+      "name": "NEWBOMB.DAT",
+      "size": 80,
+      "crc32": "bcfe4f6a"
+    },
+    {
+      "name": "NEWBULS2.DAT",
+      "size": 120,
+      "crc32": "cc0a2b39"
+    },
+    {
+      "name": "POWER.DAT",
+      "size": 1024,
+      "crc32": "a7658075"
+    },
+    {
+      "name": "ROCKET.DAT",
+      "size": 640,
+      "crc32": "38219b75"
+    },
+    {
+      "name": "ROTBALLS.DAT",
+      "size": 360,
+      "crc32": "b452f850"
+    },
+    {
+      "name": "SEEKER2.DAT",
+      "size": 880,
+      "crc32": "1b7b8a6c"
+    },
+    {
+      "name": "SMALLEXP.DAT",
+      "size": 960,
+      "crc32": "7b9b2a6d"
+    },
+    {
+      "name": "SMLOGOS.DAT",
+      "size": 2560,
+      "crc32": "10fa339f"
+    },
+    {
+      "name": "SMSHIP.DAT",
+      "size": 32,
+      "crc32": "83949bb7"
+    },
+    {
+      "name": "SPINNERS.DAT",
+      "size": 320,
+      "crc32": "c06c9d77"
+    },
+    {
+      "name": "SSWEAP.DAT",
+      "size": 864,
+      "crc32": "0eb10b63"
+    },
+    {
+      "name": "STATUS.PI1",
+      "size": 8480,
+      "crc32": "03e2e345"
+    },
+    {
+      "name": "SWEAP.DAT",
+      "size": 2080,
+      "crc32": "26324c0a"
+    },
+    {
+      "name": "ZYN1.DAT",
+      "size": 39488,
+      "crc32": "8c75a68c"
+    },
+    {
+      "name": "ZYN3.DAT",
+      "size": 35648,
+      "crc32": "c32ecff2"
+    },
+    {
+      "name": "ZYN8.DAT",
+      "size": 32128,
+      "crc32": "890354de"
+    },
+    {
+      "name": "ZYNLOGO.DAT",
+      "size": 6144,
+      "crc32": "7e1171c8"
+    },
+    {
+      "name": "ZYNPIC.PIC",
+      "size": 32000,
+      "crc32": "15698459"
+    }
+  ],
+  "game_data_included": false
+}
